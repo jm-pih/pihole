@@ -3,326 +3,326 @@
 # Removed Instagram blocks
 # Sourced from https://blocklistproject.github.io/Lists/facebook.txt
 # ------------------------------------[FILTERS]-------------------------------------
-# 0.0.0.0 a.ns.cdninstagram.com
-# 0.0.0.0 b.ns.cdninstagram.com
-# 0.0.0.0 c.ns.cdninstagram.com
-# 0.0.0.0 cdninstagram.com
-# 0.0.0.0 d.ns.cdninstagram.com
-# 0.0.0.0 i.instagram.com
-# 0.0.0.0 images.ak.instagram.com
-# 0.0.0.0 l.instagram.com
-# 0.0.0.0 platform.foursquare.com Not owned by FB
-# 0.0.0.0 scontent-a-ams.cdninstagram.com
-# 0.0.0.0 scontent-a-atl.cdninstagram.com
-# 0.0.0.0 scontent-a-bru.cdninstagram.com
-# 0.0.0.0 scontent-a-gru.cdninstagram.com
-# 0.0.0.0 scontent-a-hkg.cdninstagram.com
-# 0.0.0.0 scontent-a-hkg4-1.cdninstagram.com
-# 0.0.0.0 scontent-a-hkg4-2.cdninstagram.com
-# 0.0.0.0 scontent-a-hkt1-1.cdninstagram.com
-# 0.0.0.0 scontent-a-hkt1-2.cdninstagram.com
-# 0.0.0.0 scontent-a-iad.cdninstagram.com
-# 0.0.0.0 scontent-a-iev1-1.cdninstagram.com
-# 0.0.0.0 scontent-a-lax.cdninstagram.com
-# 0.0.0.0 scontent-a-lga.cdninstagram.com
-# 0.0.0.0 scontent-a-lhr.cdninstagram.com
-# 0.0.0.0 scontent-a-mct1-1.cdninstagram.com
-# 0.0.0.0 scontent-a-mia.cdninstagram.com
-# 0.0.0.0 scontent-a-mxp.cdninstagram.com
-# 0.0.0.0 scontent-a-nrt.cdninstagram.com
-# 0.0.0.0 scontent-a-sea.cdninstagram.com
-# 0.0.0.0 scontent-a-sin.cdninstagram.com
-# 0.0.0.0 scontent-a-sjc.cdninstagram.com
-# 0.0.0.0 scontent-a.cdninstagram.com
-# 0.0.0.0 scontent-akl1-1.cdninstagram.com
-# 0.0.0.0 scontent-ams.cdninstagram.com
-# 0.0.0.0 scontent-ams3-1.cdninstagram.com
-# 0.0.0.0 scontent-ams4-1.cdninstagram.com
-# 0.0.0.0 scontent-amt2-1.cdninstagram.com
-# 0.0.0.0 scontent-arn.cdninstagram.com
-# 0.0.0.0 scontent-arn2-1.cdninstagram.com
-# 0.0.0.0 scontent-arn2-2.cdninstagram.com
-# 0.0.0.0 scontent-atl.cdninstagram.com
-# 0.0.0.0 scontent-atl3-1.cdninstagram.com
-# 0.0.0.0 scontent-atl3-2.cdninstagram.com
-# 0.0.0.0 scontent-b-ams.cdninstagram.com
-# 0.0.0.0 scontent-b-bru.cdninstagram.com
-# 0.0.0.0 scontent-b-dfw.cdninstagram.com
-# 0.0.0.0 scontent-b-gru.cdninstagram.com
-# 0.0.0.0 scontent-b-hkg4-2.cdninstagram.com
-# 0.0.0.0 scontent-b-hkt1-1.cdninstagram.com
-# 0.0.0.0 scontent-b-hkt1-2.cdninstagram.com
-# 0.0.0.0 scontent-b-iev1-1.cdninstagram.com
-# 0.0.0.0 scontent-b-lax.cdninstagram.com
-# 0.0.0.0 scontent-b-lga.cdninstagram.com
-# 0.0.0.0 scontent-b-lhr.cdninstagram.com
-# 0.0.0.0 scontent-b-mct1-1.cdninstagram.com
-# 0.0.0.0 scontent-b-mxp.cdninstagram.com
-# 0.0.0.0 scontent-b-nrt.cdninstagram.com
-# 0.0.0.0 scontent-b-sin.cdninstagram.com
-# 0.0.0.0 scontent-b-sjc.cdninstagram.com
-# 0.0.0.0 scontent-b.cdninstagram.com
-# 0.0.0.0 scontent-ber1-1.cdninstagram.com
-# 0.0.0.0 scontent-bog1-1.cdninstagram.com
-# 0.0.0.0 scontent-bom1-1.cdninstagram.com
-# 0.0.0.0 scontent-bom1-2.cdninstagram.com
-# 0.0.0.0 scontent-bos3-1.cdninstagram.com
-# 0.0.0.0 scontent-bru.cdninstagram.com
-# 0.0.0.0 scontent-bru2-1.cdninstagram.com
-# 0.0.0.0 scontent-cdg2-1.cdninstagram.com
-# 0.0.0.0 scontent-cdt.cdninstagram.com
-# 0.0.0.0 scontent-cdt1-1.cdninstagram.com
-# 0.0.0.0 scontent-cgk1-1.cdninstagram.com
-# 0.0.0.0 scontent-cgk1-2.cdninstagram.com
-# 0.0.0.0 scontent-cph2-1.cdninstagram.com
-# 0.0.0.0 scontent-cpt1-1.cdninstagram.com
-# 0.0.0.0 scontent-del1-1.cdninstagram.com
-# 0.0.0.0 scontent-del1-2.cdninstagram.com
-# 0.0.0.0 scontent-den4-1.cdninstagram.com
-# 0.0.0.0 scontent-dfw5-1.cdninstagram.com
-# 0.0.0.0 scontent-dfw5-2.cdninstagram.com
-# 0.0.0.0 scontent-dub4-1.cdninstagram.com
-# 0.0.0.0 scontent-dus.cdninstagram.com
-# 0.0.0.0 scontent-dus1-1.cdninstagram.com
-# 0.0.0.0 scontent-eze1-1.cdninstagram.com
-# 0.0.0.0 scontent-fco1-1.cdninstagram.com
-# 0.0.0.0 scontent-fml1-1.cdninstagram.com
-# 0.0.0.0 scontent-fml2-1.cdninstagram.com
-# 0.0.0.0 scontent-for1-1.cdninstagram.com
-# 0.0.0.0 scontent-frt.cdninstagram.com
-# 0.0.0.0 scontent-frt3-1.cdninstagram.com
-# 0.0.0.0 scontent-frt3-2.cdninstagram.com
-# 0.0.0.0 scontent-frx5-1.cdninstagram.com
-# 0.0.0.0 scontent-gig2-1.cdninstagram.com
-# 0.0.0.0 scontent-gmp1-1.cdninstagram.com
-# 0.0.0.0 scontent-gru.cdninstagram.com
-# 0.0.0.0 scontent-gru1-1.cdninstagram.com
-# 0.0.0.0 scontent-gru1-2.cdninstagram.com
-# 0.0.0.0 scontent-gru2-1.cdninstagram.com
-# 0.0.0.0 scontent-gru2-2.cdninstagram.com
-# 0.0.0.0 scontent-ham3-1.cdninstagram.com
-# 0.0.0.0 scontent-hbe1-1.cdninstagram.com
-# 0.0.0.0 scontent-hel3-1.cdninstagram.com
-# 0.0.0.0 scontent-hkg.cdninstagram.com
-# 0.0.0.0 scontent-hkg4-1.cdninstagram.com
-# 0.0.0.0 scontent-hkg4-2.cdninstagram.com
-# 0.0.0.0 scontent-hkt1-1.cdninstagram.com
-# 0.0.0.0 scontent-hkt1-2.cdninstagram.com
-# 0.0.0.0 scontent-hou1-1.cdninstagram.com
-# 0.0.0.0 scontent-iad.cdninstagram.com
-# 0.0.0.0 scontent-iad3-1.cdninstagram.com
-# 0.0.0.0 scontent-iev1-1.cdninstagram.com
-# 0.0.0.0 scontent-itm1-1.cdninstagram.com
-# 0.0.0.0 scontent-jnb1-1.cdninstagram.com
-# 0.0.0.0 scontent-kut2-1.cdninstagram.com
-# 0.0.0.0 scontent-kut2-2.cdninstagram.com
-# 0.0.0.0 scontent-lax.cdninstagram.com
-# 0.0.0.0 scontent-lax3-1.cdninstagram.com
-# 0.0.0.0 scontent-lax3-2.cdninstagram.com
-# 0.0.0.0 scontent-lcy1-1.cdninstagram.com
-# 0.0.0.0 scontent-lga.cdninstagram.com
-# 0.0.0.0 scontent-lga3-1.cdninstagram.com
-# 0.0.0.0 scontent-lga3-2.cdninstagram.com
-# 0.0.0.0 scontent-lhr.cdninstagram.com
-# 0.0.0.0 scontent-lhr8-1.cdninstagram.com
-# 0.0.0.0 scontent-lhr8-2.cdninstagram.com
-# 0.0.0.0 scontent-lht6-1.cdninstagram.com
-# 0.0.0.0 scontent-lim1-1.cdninstagram.com
-# 0.0.0.0 scontent-lis1-1.cdninstagram.com
-# 0.0.0.0 scontent-los2-1.cdninstagram.com
-# 0.0.0.0 scontent-maa2-1.cdninstagram.com
-# 0.0.0.0 scontent-maa2-2.cdninstagram.com
-# 0.0.0.0 scontent-mad.cdninstagram.com
-# 0.0.0.0 scontent-mad1-1.cdninstagram.com
-# 0.0.0.0 scontent-man2-1.cdninstagram.com
-# 0.0.0.0 scontent-mba1-1.cdninstagram.com
-# 0.0.0.0 scontent-mct1-1.cdninstagram.com
-# 0.0.0.0 scontent-mia.cdninstagram.com
-# 0.0.0.0 scontent-mia3-1.cdninstagram.com
-# 0.0.0.0 scontent-mia3-2.cdninstagram.com
-# 0.0.0.0 scontent-mrs2-1.cdninstagram.com
-# 0.0.0.0 scontent-mrs2-2.cdninstagram.com
-# 0.0.0.0 scontent-msp1-1.cdninstagram.com
-# 0.0.0.0 scontent-muc2-1.cdninstagram.com
-# 0.0.0.0 scontent-mxp1-1.cdninstagram.com
-# 0.0.0.0 scontent-mxp1-2.cdninstagram.com
-# 0.0.0.0 scontent-nrt.cdninstagram.com
-# 0.0.0.0 scontent-nrt1-1.cdninstagram.com
-# 0.0.0.0 scontent-ort2-1.cdninstagram.com
-# 0.0.0.0 scontent-ort2-2.cdninstagram.com
-# 0.0.0.0 scontent-otp1-1.cdninstagram.com
-# 0.0.0.0 scontent-pmo1-1.cdninstagram.com
-# 0.0.0.0 scontent-prg1-1.cdninstagram.com
-# 0.0.0.0 scontent-qro1-1.cdninstagram.com
-# 0.0.0.0 scontent-qro1-2.cdninstagram.com
-# 0.0.0.0 scontent-scl2-1.cdninstagram.com
-# 0.0.0.0 scontent-sea.cdninstagram.com
-# 0.0.0.0 scontent-sea1-1.cdninstagram.com
-# 0.0.0.0 scontent-sin6-1.cdninstagram.com
-# 0.0.0.0 scontent-sin6-2.cdninstagram.com
-# 0.0.0.0 scontent-sin6-3.cdninstagram.com
-# 0.0.0.0 scontent-sit4-1.cdninstagram.com
-# 0.0.0.0 scontent-sjc.cdninstagram.com
-# 0.0.0.0 scontent-sjc3-1.cdninstagram.com
-# 0.0.0.0 scontent-sju1-1.cdninstagram.com
-# 0.0.0.0 scontent-sof.cdninstagram.com
-# 0.0.0.0 scontent-sof1-1.cdninstagram.com
-# 0.0.0.0 scontent-ssn1-1.cdninstagram.com
-# 0.0.0.0 scontent-syd2-1.cdninstagram.com
-# 0.0.0.0 scontent-tpe.cdninstagram.com
-# 0.0.0.0 scontent-tpe1-1.cdninstagram.com
-# 0.0.0.0 scontent-vie.cdninstagram.com
-# 0.0.0.0 scontent-vie1-1.cdninstagram.com
-# 0.0.0.0 scontent-waw1-1.cdninstagram.com
-# 0.0.0.0 scontent-xsp1-1.cdninstagram.com
-# 0.0.0.0 scontent-xsp1-2.cdninstagram.com
-# 0.0.0.0 scontent-xsp1-3.cdninstagram.com
-# 0.0.0.0 scontent-yyz1-1.cdninstagram.com
-# 0.0.0.0 scontent-zrh1-1.cdninstagram.com
-# 0.0.0.0 scontent.cdninstagram.com
-# 0.0.0.0 static.licdn.com Not owned by FB
-# 0.0.0.0 video-ams4-1.cdninstagram.com
-# 0.0.0.0 video-amt2-1.cdninstagram.com
-# 0.0.0.0 video-arn2-1.cdninstagram.com
-# 0.0.0.0 video-arn2-2.cdninstagram.com
-# 0.0.0.0 video-atl3-1.cdninstagram.com
-# 0.0.0.0 video-atl3-2.cdninstagram.com
-# 0.0.0.0 video-bos3-1.cdninstagram.com
-# 0.0.0.0 video-bru2-1.cdninstagram.com
-# 0.0.0.0 video-cdg2-1.cdninstagram.com
-# 0.0.0.0 video-cdt1-1.cdninstagram.com
-# 0.0.0.0 video-cgk1-1.cdninstagram.com
-# 0.0.0.0 video-den4-1.cdninstagram.com
-# 0.0.0.0 video-dfw5-1.cdninstagram.com
-# 0.0.0.0 video-dfw5-2.cdninstagram.com
-# 0.0.0.0 video-frt3-1.cdninstagram.com
-# 0.0.0.0 video-frt3-2.cdninstagram.com
-# 0.0.0.0 video-frx5-1.cdninstagram.com
-# 0.0.0.0 video-gmp1-1.cdninstagram.com
-# 0.0.0.0 video-gru2-1.cdninstagram.com
-# 0.0.0.0 video-gru2-2.cdninstagram.com
-# 0.0.0.0 video-ham3-1.cdninstagram.com
-# 0.0.0.0 video-hel3-1.cdninstagram.com
-# 0.0.0.0 video-hkg4-1.cdninstagram.com
-# 0.0.0.0 video-hkg4-2.cdninstagram.com
-# 0.0.0.0 video-hkt1-1.cdninstagram.com
-# 0.0.0.0 video-hkt1-2.cdninstagram.com
-# 0.0.0.0 video-hou1-1.cdninstagram.com
-# 0.0.0.0 video-iad3-1.cdninstagram.com
-# 0.0.0.0 video-lax3-1.cdninstagram.com
-# 0.0.0.0 video-lax3-2.cdninstagram.com
-# 0.0.0.0 video-lcy1-1.cdninstagram.com
-# 0.0.0.0 video-lga3-1.cdninstagram.com
-# 0.0.0.0 video-lga3-2.cdninstagram.com
-# 0.0.0.0 video-lhr8-1.cdninstagram.com
-# 0.0.0.0 video-lhr8-2.cdninstagram.com
-# 0.0.0.0 video-lht6-1.cdninstagram.com
-# 0.0.0.0 video-mad1-1.cdninstagram.com
-# 0.0.0.0 video-mct1-1.cdninstagram.com
-# 0.0.0.0 video-mia3-1.cdninstagram.com
-# 0.0.0.0 video-mia3-2.cdninstagram.com
-# 0.0.0.0 video-mrs2-1.cdninstagram.com
-# 0.0.0.0 video-mrs2-2.cdninstagram.com
-# 0.0.0.0 video-msp1-1.cdninstagram.com
-# 0.0.0.0 video-mxp1-1.cdninstagram.com
-# 0.0.0.0 video-mxp1-2.cdninstagram.com
-# 0.0.0.0 video-nrt1-1.cdninstagram.com
-# 0.0.0.0 video-ort2-1.cdninstagram.com
-# 0.0.0.0 video-ort2-2.cdninstagram.com
-# 0.0.0.0 video-pmo1-1.cdninstagram.com
-# 0.0.0.0 video-prg1-1.cdninstagram.com
-# 0.0.0.0 video-sea1-1.cdninstagram.com
-# 0.0.0.0 video-sin6-1.cdninstagram.com
-# 0.0.0.0 video-sin6-2.cdninstagram.com
-# 0.0.0.0 video-sin6-3.cdninstagram.com
-# 0.0.0.0 video-sjc3-1.cdninstagram.com
-# 0.0.0.0 video-syd2-1.cdninstagram.com
-# 0.0.0.0 video-tpe1-1.cdninstagram.com
-# 0.0.0.0 video-vie1-1.cdninstagram.com
-# 0.0.0.0 video-xsp1-2.cdninstagram.com
-# 0.0.0.0 video-yyz1-1.cdninstagram.com
-# 0.0.0.0 video.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-a-mct1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-b-mct1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p15-scontent-mct1-1.cdninstagram.com
-# 0.0.0.0 z-p15.i.instagram.com
-# 0.0.0.0 z-p4-scontent-a-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-a-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-a-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-a-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-a-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-ams4-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-amt2-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-arn2-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-b-mct1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-bog1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-cgk1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-cgk1-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-frt3-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-kut2-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-kut2-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-nrt1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-pmo1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-sea1-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-sin6-1.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-sin6-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-sin6-3.cdninstagram.com
-# 0.0.0.0 z-p4-scontent-xsp1-2.cdninstagram.com
-# 0.0.0.0 z-p4-scontent.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-a-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-a-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-a-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-a-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-a-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-b-sjc3-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-for1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-frt3-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-frx5-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-gig2-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-gru1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-gru1-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-gru2-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-gru2-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-hkg4-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-hkg4-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-hkt1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-hkt1-2.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-iev1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-lim1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-prg1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent-sea1-1.cdninstagram.com
-# 0.0.0.0 z-p42-scontent.cdninstagram.com
-# 0.0.0.0 z-p42.i.instagram.com
+a.ns.cdninstagram.com
+b.ns.cdninstagram.com
+c.ns.cdninstagram.com
+cdninstagram.com
+d.ns.cdninstagram.com
+i.instagram.com
+images.ak.instagram.com
+l.instagram.com
+platform.foursquare.com Not owned by FB
+scontent-a-ams.cdninstagram.com
+scontent-a-atl.cdninstagram.com
+scontent-a-bru.cdninstagram.com
+scontent-a-gru.cdninstagram.com
+scontent-a-hkg.cdninstagram.com
+scontent-a-hkg4-1.cdninstagram.com
+scontent-a-hkg4-2.cdninstagram.com
+scontent-a-hkt1-1.cdninstagram.com
+scontent-a-hkt1-2.cdninstagram.com
+scontent-a-iad.cdninstagram.com
+scontent-a-iev1-1.cdninstagram.com
+scontent-a-lax.cdninstagram.com
+scontent-a-lga.cdninstagram.com
+scontent-a-lhr.cdninstagram.com
+scontent-a-mct1-1.cdninstagram.com
+scontent-a-mia.cdninstagram.com
+scontent-a-mxp.cdninstagram.com
+scontent-a-nrt.cdninstagram.com
+scontent-a-sea.cdninstagram.com
+scontent-a-sin.cdninstagram.com
+scontent-a-sjc.cdninstagram.com
+scontent-a.cdninstagram.com
+scontent-akl1-1.cdninstagram.com
+scontent-ams.cdninstagram.com
+scontent-ams3-1.cdninstagram.com
+scontent-ams4-1.cdninstagram.com
+scontent-amt2-1.cdninstagram.com
+scontent-arn.cdninstagram.com
+scontent-arn2-1.cdninstagram.com
+scontent-arn2-2.cdninstagram.com
+scontent-atl.cdninstagram.com
+scontent-atl3-1.cdninstagram.com
+scontent-atl3-2.cdninstagram.com
+scontent-b-ams.cdninstagram.com
+scontent-b-bru.cdninstagram.com
+scontent-b-dfw.cdninstagram.com
+scontent-b-gru.cdninstagram.com
+scontent-b-hkg4-2.cdninstagram.com
+scontent-b-hkt1-1.cdninstagram.com
+scontent-b-hkt1-2.cdninstagram.com
+scontent-b-iev1-1.cdninstagram.com
+scontent-b-lax.cdninstagram.com
+scontent-b-lga.cdninstagram.com
+scontent-b-lhr.cdninstagram.com
+scontent-b-mct1-1.cdninstagram.com
+scontent-b-mxp.cdninstagram.com
+scontent-b-nrt.cdninstagram.com
+scontent-b-sin.cdninstagram.com
+scontent-b-sjc.cdninstagram.com
+scontent-b.cdninstagram.com
+scontent-ber1-1.cdninstagram.com
+scontent-bog1-1.cdninstagram.com
+scontent-bom1-1.cdninstagram.com
+scontent-bom1-2.cdninstagram.com
+scontent-bos3-1.cdninstagram.com
+scontent-bru.cdninstagram.com
+scontent-bru2-1.cdninstagram.com
+scontent-cdg2-1.cdninstagram.com
+scontent-cdt.cdninstagram.com
+scontent-cdt1-1.cdninstagram.com
+scontent-cgk1-1.cdninstagram.com
+scontent-cgk1-2.cdninstagram.com
+scontent-cph2-1.cdninstagram.com
+scontent-cpt1-1.cdninstagram.com
+scontent-del1-1.cdninstagram.com
+scontent-del1-2.cdninstagram.com
+scontent-den4-1.cdninstagram.com
+scontent-dfw5-1.cdninstagram.com
+scontent-dfw5-2.cdninstagram.com
+scontent-dub4-1.cdninstagram.com
+scontent-dus.cdninstagram.com
+scontent-dus1-1.cdninstagram.com
+scontent-eze1-1.cdninstagram.com
+scontent-fco1-1.cdninstagram.com
+scontent-fml1-1.cdninstagram.com
+scontent-fml2-1.cdninstagram.com
+scontent-for1-1.cdninstagram.com
+scontent-frt.cdninstagram.com
+scontent-frt3-1.cdninstagram.com
+scontent-frt3-2.cdninstagram.com
+scontent-frx5-1.cdninstagram.com
+scontent-gig2-1.cdninstagram.com
+scontent-gmp1-1.cdninstagram.com
+scontent-gru.cdninstagram.com
+scontent-gru1-1.cdninstagram.com
+scontent-gru1-2.cdninstagram.com
+scontent-gru2-1.cdninstagram.com
+scontent-gru2-2.cdninstagram.com
+scontent-ham3-1.cdninstagram.com
+scontent-hbe1-1.cdninstagram.com
+scontent-hel3-1.cdninstagram.com
+scontent-hkg.cdninstagram.com
+scontent-hkg4-1.cdninstagram.com
+scontent-hkg4-2.cdninstagram.com
+scontent-hkt1-1.cdninstagram.com
+scontent-hkt1-2.cdninstagram.com
+scontent-hou1-1.cdninstagram.com
+scontent-iad.cdninstagram.com
+scontent-iad3-1.cdninstagram.com
+scontent-iev1-1.cdninstagram.com
+scontent-itm1-1.cdninstagram.com
+scontent-jnb1-1.cdninstagram.com
+scontent-kut2-1.cdninstagram.com
+scontent-kut2-2.cdninstagram.com
+scontent-lax.cdninstagram.com
+scontent-lax3-1.cdninstagram.com
+scontent-lax3-2.cdninstagram.com
+scontent-lcy1-1.cdninstagram.com
+scontent-lga.cdninstagram.com
+scontent-lga3-1.cdninstagram.com
+scontent-lga3-2.cdninstagram.com
+scontent-lhr.cdninstagram.com
+scontent-lhr8-1.cdninstagram.com
+scontent-lhr8-2.cdninstagram.com
+scontent-lht6-1.cdninstagram.com
+scontent-lim1-1.cdninstagram.com
+scontent-lis1-1.cdninstagram.com
+scontent-los2-1.cdninstagram.com
+scontent-maa2-1.cdninstagram.com
+scontent-maa2-2.cdninstagram.com
+scontent-mad.cdninstagram.com
+scontent-mad1-1.cdninstagram.com
+scontent-man2-1.cdninstagram.com
+scontent-mba1-1.cdninstagram.com
+scontent-mct1-1.cdninstagram.com
+scontent-mia.cdninstagram.com
+scontent-mia3-1.cdninstagram.com
+scontent-mia3-2.cdninstagram.com
+scontent-mrs2-1.cdninstagram.com
+scontent-mrs2-2.cdninstagram.com
+scontent-msp1-1.cdninstagram.com
+scontent-muc2-1.cdninstagram.com
+scontent-mxp1-1.cdninstagram.com
+scontent-mxp1-2.cdninstagram.com
+scontent-nrt.cdninstagram.com
+scontent-nrt1-1.cdninstagram.com
+scontent-ort2-1.cdninstagram.com
+scontent-ort2-2.cdninstagram.com
+scontent-otp1-1.cdninstagram.com
+scontent-pmo1-1.cdninstagram.com
+scontent-prg1-1.cdninstagram.com
+scontent-qro1-1.cdninstagram.com
+scontent-qro1-2.cdninstagram.com
+scontent-scl2-1.cdninstagram.com
+scontent-sea.cdninstagram.com
+scontent-sea1-1.cdninstagram.com
+scontent-sin6-1.cdninstagram.com
+scontent-sin6-2.cdninstagram.com
+scontent-sin6-3.cdninstagram.com
+scontent-sit4-1.cdninstagram.com
+scontent-sjc.cdninstagram.com
+scontent-sjc3-1.cdninstagram.com
+scontent-sju1-1.cdninstagram.com
+scontent-sof.cdninstagram.com
+scontent-sof1-1.cdninstagram.com
+scontent-ssn1-1.cdninstagram.com
+scontent-syd2-1.cdninstagram.com
+scontent-tpe.cdninstagram.com
+scontent-tpe1-1.cdninstagram.com
+scontent-vie.cdninstagram.com
+scontent-vie1-1.cdninstagram.com
+scontent-waw1-1.cdninstagram.com
+scontent-xsp1-1.cdninstagram.com
+scontent-xsp1-2.cdninstagram.com
+scontent-xsp1-3.cdninstagram.com
+scontent-yyz1-1.cdninstagram.com
+scontent-zrh1-1.cdninstagram.com
+scontent.cdninstagram.com
+static.licdn.com Not owned by FB
+video-ams4-1.cdninstagram.com
+video-amt2-1.cdninstagram.com
+video-arn2-1.cdninstagram.com
+video-arn2-2.cdninstagram.com
+video-atl3-1.cdninstagram.com
+video-atl3-2.cdninstagram.com
+video-bos3-1.cdninstagram.com
+video-bru2-1.cdninstagram.com
+video-cdg2-1.cdninstagram.com
+video-cdt1-1.cdninstagram.com
+video-cgk1-1.cdninstagram.com
+video-den4-1.cdninstagram.com
+video-dfw5-1.cdninstagram.com
+video-dfw5-2.cdninstagram.com
+video-frt3-1.cdninstagram.com
+video-frt3-2.cdninstagram.com
+video-frx5-1.cdninstagram.com
+video-gmp1-1.cdninstagram.com
+video-gru2-1.cdninstagram.com
+video-gru2-2.cdninstagram.com
+video-ham3-1.cdninstagram.com
+video-hel3-1.cdninstagram.com
+video-hkg4-1.cdninstagram.com
+video-hkg4-2.cdninstagram.com
+video-hkt1-1.cdninstagram.com
+video-hkt1-2.cdninstagram.com
+video-hou1-1.cdninstagram.com
+video-iad3-1.cdninstagram.com
+video-lax3-1.cdninstagram.com
+video-lax3-2.cdninstagram.com
+video-lcy1-1.cdninstagram.com
+video-lga3-1.cdninstagram.com
+video-lga3-2.cdninstagram.com
+video-lhr8-1.cdninstagram.com
+video-lhr8-2.cdninstagram.com
+video-lht6-1.cdninstagram.com
+video-mad1-1.cdninstagram.com
+video-mct1-1.cdninstagram.com
+video-mia3-1.cdninstagram.com
+video-mia3-2.cdninstagram.com
+video-mrs2-1.cdninstagram.com
+video-mrs2-2.cdninstagram.com
+video-msp1-1.cdninstagram.com
+video-mxp1-1.cdninstagram.com
+video-mxp1-2.cdninstagram.com
+video-nrt1-1.cdninstagram.com
+video-ort2-1.cdninstagram.com
+video-ort2-2.cdninstagram.com
+video-pmo1-1.cdninstagram.com
+video-prg1-1.cdninstagram.com
+video-sea1-1.cdninstagram.com
+video-sin6-1.cdninstagram.com
+video-sin6-2.cdninstagram.com
+video-sin6-3.cdninstagram.com
+video-sjc3-1.cdninstagram.com
+video-syd2-1.cdninstagram.com
+video-tpe1-1.cdninstagram.com
+video-vie1-1.cdninstagram.com
+video-xsp1-2.cdninstagram.com
+video-yyz1-1.cdninstagram.com
+video.cdninstagram.com
+z-p15-scontent-a-hkg4-1.cdninstagram.com
+z-p15-scontent-a-hkg4-2.cdninstagram.com
+z-p15-scontent-a-hkt1-1.cdninstagram.com
+z-p15-scontent-a-hkt1-2.cdninstagram.com
+z-p15-scontent-a-iev1-1.cdninstagram.com
+z-p15-scontent-a-mct1-1.cdninstagram.com
+z-p15-scontent-b-hkg4-1.cdninstagram.com
+z-p15-scontent-b-hkg4-2.cdninstagram.com
+z-p15-scontent-b-hkt1-1.cdninstagram.com
+z-p15-scontent-b-hkt1-2.cdninstagram.com
+z-p15-scontent-b-iev1-1.cdninstagram.com
+z-p15-scontent-b-mct1-1.cdninstagram.com
+z-p15-scontent-hkg4-1.cdninstagram.com
+z-p15-scontent-hkg4-2.cdninstagram.com
+z-p15-scontent-hkt1-1.cdninstagram.com
+z-p15-scontent-hkt1-2.cdninstagram.com
+z-p15-scontent-iev1-1.cdninstagram.com
+z-p15-scontent-mct1-1.cdninstagram.com
+z-p15.i.instagram.com
+z-p4-scontent-a-hkg4-1.cdninstagram.com
+z-p4-scontent-a-hkg4-2.cdninstagram.com
+z-p4-scontent-a-hkt1-1.cdninstagram.com
+z-p4-scontent-a-hkt1-2.cdninstagram.com
+z-p4-scontent-a-iev1-1.cdninstagram.com
+z-p4-scontent-ams4-1.cdninstagram.com
+z-p4-scontent-amt2-1.cdninstagram.com
+z-p4-scontent-arn2-2.cdninstagram.com
+z-p4-scontent-b-hkg4-1.cdninstagram.com
+z-p4-scontent-b-hkg4-2.cdninstagram.com
+z-p4-scontent-b-hkt1-1.cdninstagram.com
+z-p4-scontent-b-hkt1-2.cdninstagram.com
+z-p4-scontent-b-iev1-1.cdninstagram.com
+z-p4-scontent-b-mct1-1.cdninstagram.com
+z-p4-scontent-bog1-1.cdninstagram.com
+z-p4-scontent-cgk1-1.cdninstagram.com
+z-p4-scontent-cgk1-2.cdninstagram.com
+z-p4-scontent-frt3-1.cdninstagram.com
+z-p4-scontent-hkg4-1.cdninstagram.com
+z-p4-scontent-hkg4-2.cdninstagram.com
+z-p4-scontent-hkt1-1.cdninstagram.com
+z-p4-scontent-hkt1-2.cdninstagram.com
+z-p4-scontent-iev1-1.cdninstagram.com
+z-p4-scontent-kut2-1.cdninstagram.com
+z-p4-scontent-kut2-2.cdninstagram.com
+z-p4-scontent-nrt1-1.cdninstagram.com
+z-p4-scontent-pmo1-1.cdninstagram.com
+z-p4-scontent-sea1-1.cdninstagram.com
+z-p4-scontent-sin6-1.cdninstagram.com
+z-p4-scontent-sin6-2.cdninstagram.com
+z-p4-scontent-sin6-3.cdninstagram.com
+z-p4-scontent-xsp1-2.cdninstagram.com
+z-p4-scontent.cdninstagram.com
+z-p42-scontent-a-hkg4-1.cdninstagram.com
+z-p42-scontent-a-hkg4-2.cdninstagram.com
+z-p42-scontent-a-hkt1-1.cdninstagram.com
+z-p42-scontent-a-hkt1-2.cdninstagram.com
+z-p42-scontent-a-iev1-1.cdninstagram.com
+z-p42-scontent-b-hkg4-1.cdninstagram.com
+z-p42-scontent-b-hkg4-2.cdninstagram.com
+z-p42-scontent-b-hkt1-1.cdninstagram.com
+z-p42-scontent-b-hkt1-2.cdninstagram.com
+z-p42-scontent-b-iev1-1.cdninstagram.com
+z-p42-scontent-b-sjc3-1.cdninstagram.com
+z-p42-scontent-for1-1.cdninstagram.com
+z-p42-scontent-frt3-1.cdninstagram.com
+z-p42-scontent-frx5-1.cdninstagram.com
+z-p42-scontent-gig2-1.cdninstagram.com
+z-p42-scontent-gru1-1.cdninstagram.com
+z-p42-scontent-gru1-2.cdninstagram.com
+z-p42-scontent-gru2-1.cdninstagram.com
+z-p42-scontent-gru2-2.cdninstagram.com
+z-p42-scontent-hkg4-1.cdninstagram.com
+z-p42-scontent-hkg4-2.cdninstagram.com
+z-p42-scontent-hkt1-1.cdninstagram.com
+z-p42-scontent-hkt1-2.cdninstagram.com
+z-p42-scontent-iev1-1.cdninstagram.com
+z-p42-scontent-lim1-1.cdninstagram.com
+z-p42-scontent-prg1-1.cdninstagram.com
+z-p42-scontent-sea1-1.cdninstagram.com
+z-p42-scontent.cdninstagram.com
+z-p42.i.instagram.com
 0.0.0.0 0-1.fb.me
 0.0.0.0 0-144-243f1.fbjs.facebook.com
 0.0.0.0 0-157-99-m.lite.facebook.com
