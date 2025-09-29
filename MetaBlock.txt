@@ -1,8 +1,11 @@
 # -------------------------------------[INFO]---------------------------------------
-# Custom Meta blocklist [01-02-25]
+# Custom Meta blocklist [updated 01-10-25]
+# Tweak for Whatsapp images
 # Removed Instagram and Messenger blocks
-# Sourced from https://blocklistproject.github.io/Lists/facebook.txt
+# Original source from https://blocklistproject.github.io/Lists/facebook.txt
 # -------------------------------[START OF WHITELIST]-------------------------------
+# media-lhr8-2.cdn.whatsapp.net Whatsapp images (download - Jason gif)
+# media-lhr8-1.cdn.whatsapp.net Whatsapp images (uploading a photo)
 # platform.foursquare.com Not owned by FB
 # static.licdn.com Not owned by FB
 # a.ns.cdninstagram.com
@@ -22466,3 +22469,4 @@
 0.0.0.0 zynga.facebook.com
 0.0.0.0 zz-tr.cinyour.facebook.com
 0.0.0.0 zzangfa.autodiscover.oculusvr.com
+
